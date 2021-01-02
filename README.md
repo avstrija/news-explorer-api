@@ -1,4 +1,4 @@
-# News Project back-end
+# News Explorer project back-end
 
 ## Directories
 
