@@ -1,12 +1,5 @@
 # News Explorer project back-end
-
-## Directories
-
-`/public` — static files from the build of the React front-end app.
-
-`/data` — JSON files to temporarily emulate database integration.
-
-`/routes` — routing files.
+API here: http://api.newsjinn.students.nomoreparties.site/
 
 ## Running the Project
 
